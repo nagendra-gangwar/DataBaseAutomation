@@ -1,7 +1,6 @@
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\bin\Debug\DemoDatabase.dacpac
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\bin\Debug\DemoDatabase.dll
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\bin\Debug\DemoDatabase.pdb
-C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\obj\Debug\DemoDatabase.sqlprojAssemblyReference.cache
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\obj\Debug\Model.xml
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\obj\Debug\refactor.xml
 C:\WorkStation\MyData\NARA\DataBaseAutomation\DataBaseAutomation\DemoDatabase\obj\Debug\postdeploy.sql
