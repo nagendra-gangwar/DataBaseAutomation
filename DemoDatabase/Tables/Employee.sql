@@ -5,5 +5,6 @@
     [LastName] NVARCHAR(50) NOT NULL, 
     [Phone] NCHAR(15) NULL, 
     [Email] NVARCHAR(50) NULL, 
-    [DepartmentID] INT NOT NULL
+    [DepartmentID] INT NOT NULL, 
+    [ManagerName] NVARCHAR(50) NULL
 )
